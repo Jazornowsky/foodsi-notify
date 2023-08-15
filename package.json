@@ -1,0 +1,22 @@
+{
+  "name": "foodsi-notify",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cron": "^2.4.0",
+    "express": "^4.18.2",
+    "telegraf": "github:telegraf/telegraf"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.5.0"
+  }
+}

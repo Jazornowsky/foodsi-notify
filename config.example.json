@@ -1,0 +1,20 @@
+{
+  "chatId": 0,
+  "foodsi": {
+    "email": "account@some.xyz",
+    "password": "p@sswd",
+    "lat": 0.0,
+    "lng": 0.0,
+    "range": 30,
+    "onlyFavouriteRestaurants": false,
+    "api": {
+      "baseUrl": "https://api.foodsi.pl",
+      "request": {
+        "contentType": "application/json",
+        "systemVersion": "android_3.0.0",
+        "userAgent": "okhttp/3.12.0"
+      }
+    }
+  },
+  "telegramToken": "0000000000:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
